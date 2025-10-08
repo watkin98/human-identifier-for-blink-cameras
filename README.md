@@ -11,3 +11,5 @@ a person is present.
 - How to clone and run it.
 
 Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) library, a fork of [BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol)
+
+Learing how to work with asyncio.
