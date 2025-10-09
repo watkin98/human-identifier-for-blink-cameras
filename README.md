@@ -12,4 +12,5 @@ a person is present.
 
 Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) library, a fork of [BlinkMonitorProtocol](https://github.com/MattTW/BlinkMonitorProtocol)
 
-Learing how to work with asyncio.
+Learing how to work with `asyncio`.
+Learning how to work with `aiohttp`.
