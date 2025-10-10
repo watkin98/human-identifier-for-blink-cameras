@@ -14,3 +14,9 @@ Looking into using the [blinkpy](https://github.com/fronzbot/blinkpy/tree/dev) l
 
 Learing how to work with `asyncio`.
 Learning how to work with `aiohttp`.
+Learning how to work with: 
+- `asyncio`
+- `aiohttp`
+
+Working Architecture: 
+Blink Server -> Blink App (Android Emulator) -> Notification Interceptor -> Blink Clip Retriever -> AI Person Detector -> Push Notification
