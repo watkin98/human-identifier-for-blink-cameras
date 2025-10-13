@@ -20,3 +20,11 @@ Learning how to work with:
 
 Working Architecture: 
 Blink Server -> Blink App (Android Emulator) -> Notification Interceptor -> Blink Clip Retriever -> AI Person Detector -> Push Notification
+
+# Notification Listener
+Identified a couple of 3rd party apps to forward the notifications:
+- Tasker
+- MacroAndroid
+
+Played around with MacroAndroid.
+Will look into building a version from scratch, might involve a bit of Java
