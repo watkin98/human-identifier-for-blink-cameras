@@ -28,3 +28,6 @@ Identified a couple of 3rd party apps to forward the notifications:
 
 Played around with MacroAndroid.
 Will look into building a version from scratch, might involve a bit of Java
+
+[NotificationListenerService](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
+Plan is to build the Notification Listener with Android Studio, using VS Code as the code editor. 
