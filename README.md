@@ -31,3 +31,5 @@ Will look into building a version from scratch, might involve a bit of Java
 
 [NotificationListenerService](https://developer.android.com/reference/android/service/notification/NotificationListenerService)
 Plan is to build the Notification Listener with Android Studio, using VS Code as the code editor. 
+
+Using Android Studio with Gradle to develop and build the notification listener. Plan is to explore how to accomplish this in VS Code.
