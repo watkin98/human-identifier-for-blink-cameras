@@ -1,6 +1,7 @@
 package com.example.blinknotificationlistener;
 
 import android.os.Bundle;
+import android.service.notification.StatusBarNotification;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +21,9 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+    }
+
+    public void onNotificationPosted(StatusBarNotification sbn) {
+        System.out.println("The onNotificationPosted method has been called!");
     }
 }
