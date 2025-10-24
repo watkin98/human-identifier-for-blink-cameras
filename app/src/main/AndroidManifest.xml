@@ -39,5 +39,7 @@
     </application>
 
 <!--comment-->
+    <!-- Got the physical device working with android studio, need to figure out how to install
+     the app on it-->
 
 </manifest>
